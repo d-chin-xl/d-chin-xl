@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Davina 👋
 
-<!--
-**d-chin-xl/d-chin-xl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science (Real-Time Interactive Simulation) student at DigiPen Institute of Technology Singapore, with a Diploma in Electronic and Computer Engineering from Ngee Ann Polytechnic.
 
-Here are some ideas to get you started:
+**What I work on**
+- C and C++ on Windows, Linux and Android
+- Testing and continuous integration: Catch2, CMake, Jenkins
+- IoT hardware: six months assembling and testing GPS asset trackers at Ascent Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+- Tester on *Orbital Waddle*, a seven-person C++ game for Windows and Android (private course repo). I set up the host tests, crash handler, leak checks and the team's Jenkins server.
+
+**Looking for:** internships in embedded, IoT or C/C++ software.
+
+📫 d.chin@digipen.edu · [LinkedIn](https://www.linkedin.com/in/davina-chin)
